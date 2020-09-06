@@ -1,0 +1,24 @@
+.board-container {
+    margin: auto;
+    width: 1200px;
+}
+
+.add-card-container {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.add-card-container div {
+    margin: 0 5px;
+}
+
+.update-modal {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: black;
+    opacity: 0.9;
+    padding: 75px;
+}
